@@ -26,7 +26,15 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 11,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://vks3000.ru",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -171,7 +179,7 @@
             "buttonAlign": "left",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/open-pit-mining-567722-1920-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/main1-1920x1440.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -316,7 +324,7 @@
             "paddingBottom": 2,
             "columns": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/night-construction-site-1580199-1920-1920x1276.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/night1-1920x1276.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2ecc71",
@@ -459,7 +467,7 @@
             "showText": true,
             "showButtons": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sand-1730253-1920-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sand1-1920x1440.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#f1c40f",
