@@ -1,12 +1,12 @@
 {
   "settings": {
-    "name": "Site-01-11_2205",
+    "name": "Волгоградский карьерный союз",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#bdc3c7",
+        "primaryColor": "#666666",
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
@@ -102,7 +102,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#bdc3c7!important"
+              "color": "#666666!important"
             }
           },
           "_params": {
@@ -118,7 +118,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">О КОМПАНИИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ЦЕНЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ДОКУМЕНТЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">О КОМПАНИИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-2\">ЦЕНЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-6\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-7\">ДОКУМЕНТЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -179,7 +179,7 @@
             "buttonAlign": "left",
             "showArrow": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/main1-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/main1-1-1920x1440.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2c3e50",
@@ -194,7 +194,7 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<b>Самый крупный песчаный карьер</b><div><b>в Волгоградской области</b></div>",
           "text": "<span style=\"font-style: normal;\">ООО \"Волгоградский карьерный союз\" занимается разработкой песчаного карьера \"Волгоградский\" с 2005 года и является крупнейшим поставщиком строительного песка в Волгограде и Волгоградской области. Объем ежегодной отгрузки превышает полмиллиона кубических метров песка.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">НАШИ ЦЕНЫ</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-text btn-white\" href=\"index.html#pricing-table1-2\" data-toolbar=\"-mbrBtnMove\">НАШИ ЦЕНЫ</a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -482,7 +482,7 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "ВСЕ ДОКУМЕНТЫ, КОТОРЫЕ МОГУТ РАССКАЗАТЬ ПРО НАШ ПЕСОК",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ЛИЦЕНЗИЯ</a><a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">СЕРТИФИКАТ</a><a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ПРОТОКОЛ ИСПЫТАНИЯ</a><a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">РАДИОЛОГИЯ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"assets/files/license.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЛИЦЕНЗИЯ</a><a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"assets/files/cert.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">СЕРТИФИКАТы</a><a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"assets/files/protocols.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПРОТОКОЛы ИСПЫТАНИй</a><a data-app-btn=\"true\" class=\"btn btn-transparent btn-warning\" href=\"assets/files/radiology.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">РАДИОЛОГИЯ</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -539,7 +539,7 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-8",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero contacts\" data-rv-view=\"126\" style=\"background-color: rgb(102, 102, 102); padding-top: 40px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left\">\n\n                    <div class=\"padding-top-40\"></div>\n                    <div>\n\n                      <p class=\"mbr-section-subtitle category mbr-editable-content\" code-editable-id=\"97\">адреса :</p>\n\n                      <h1 class=\"mbr-section-title display-6 mbr-editable-content\" code-editable-id=\"98\">КАРЬЕР:<br><br>Волгоград, 3-я продольная магистраль<br>4 километра от поста ДПС в сторону <br>поселка Водстрой<br><br>ДОПОЛНИТЕЛЬНЫЙ ОФИС:<br><br>Волгоград, пр-т Жукова, д.46</h1>\n\n                    </div>\n                    <div>\n\n                      <p class=\"mbr-section-subtitle category mbr-editable-content\" code-editable-id=\"99\">телефон</p>\n\n                      <h1 class=\"mbr-section-title display-6 mbr-editable-content\" code-editable-id=\"100\">+7(960) 886-8181, +7(8442) 78-0436</h1>\n\n                    </div>\n                    <div>\n                      <p class=\"mbr-section-subtitle category mbr-editable-content\" code-editable-id=\"101\">email</p>\n\n                      <h1 class=\"mbr-section-title display-6 mbr-editable-content\" code-editable-id=\"102\">vks3000@yandex.ru</h1>\n                    </div>\n\n                    \n\n                    \n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0\">\n                    <div class=\"mbr-map\"><iframe frameborder=\"0\" style=\"border:0\" src=\"https://yandex.ru/map-widget/v1/-/CBa3ySuE8A\" width=\"560\" height=\"400\"></iframe></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero contacts\" data-rv-view=\"126\" style=\"background-color: rgb(102, 102, 102); padding-top: 40px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-md-6 col-lg-5 col-lg-offset-1 text-xs-left\">\n\n                    <div class=\"padding-top-40\"></div>\n                    <div>\n\n                      <p class=\"mbr-section-subtitle category mbr-editable-content\" code-editable-id=\"124\">адреса :</p>\n\n                      <h1 class=\"mbr-section-title display-6 mbr-editable-content\" code-editable-id=\"125\">КАРЬЕР:<br><br>Волгоград, 3-я продольная магистраль<br>4 километра от поста ДПС в сторону <br>поселка Водстрой<br><br>ДОПОЛНИТЕЛЬНЫЙ ОФИС:<br><br>Волгоград, пр-т Жукова, д.46</h1>\n\n                    </div>\n                    <div>\n\n                      <p class=\"mbr-section-subtitle category mbr-editable-content\" code-editable-id=\"126\">телефон</p>\n\n                      <h1 class=\"mbr-section-title display-6 mbr-editable-content\" code-editable-id=\"127\">+7(960) 886-8181, +7(8442) 78-0436</h1>\n\n                    </div>\n                    <div>\n                      <p class=\"mbr-section-subtitle category mbr-editable-content\" code-editable-id=\"128\">email</p>\n                    \n                        <h1 class=\"mbr-section-title display-6 mbr-editable-content\" href=\"mailto:vks3000@yandex.ru\" code-editable-id=\"129\">vks3000@yandex.ru</h1>\n                    </div>\n\n                    \n\n                    \n                </div>\n\n                <div class=\"col-xs-12 col-md-6 padding-left-0 padding-right-0\">\n                    <div class=\"mbr-map\"><iframe frameborder=\"0\" style=\"border:0\" src=\"https://yandex.ru/map-widget/v1/-/CBa3ySuE8A\" width=\"560\" height=\"400\"></iframe></div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.mbr-section-title {\n  color: #ecf0f1;\n  font-family: 'Lato', sans-serif;\n  font-size: 18px;\n}\n.mbr-section-subtitle {\n  color: #e74c3c;\n  font-size: 16px;\n}\n.mbr-section-text {\n  color: #ecf0f1;\n}\n",
